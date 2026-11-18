@@ -1,0 +1,1 @@
+export default function Businesses(){return <main className="wrap"><a href="/" className="gold">← Αρχική</a><h1>Κουρεία & Κομμωτήρια</h1><p>Δεν υπάρχουν ακόμη δημοσιευμένες καταχωρίσεις. Δεν προβάλλουμε εικονικές επιχειρήσεις.</p></main>}
