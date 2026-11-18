@@ -1,0 +1,1 @@
+export default function Professionals(){return <main className="wrap"><a href="/" className="gold">← Αρχική</a><h1>Ανεξάρτητοι επαγγελματίες</h1><p>Οι καταχωρίσεις θα εμφανιστούν εδώ μετά την έγκρισή τους.</p></main>}
